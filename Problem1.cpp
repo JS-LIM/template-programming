@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<string>
 
 template <class type>
@@ -28,4 +28,4 @@ int main()
 	print(2.345f);
 	print("Hello World");
 	return 0;
-}*/
+}
