@@ -1,4 +1,4 @@
-/*#include <iostream>
+#include <iostream>
 #include <string>
 
 template <class T_type>
@@ -30,4 +30,4 @@ public:
 //class VectorDouble2D
 //{
 //	double x_, y_;
-//};*/
+//};
